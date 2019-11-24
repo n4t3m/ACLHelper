@@ -1,0 +1,10 @@
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\bin\Debug\PTHelper.exe.config
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\bin\Debug\PTHelper.exe
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\bin\Debug\PTHelper.pdb
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.csprojAssemblyReference.cache
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.btnClickThis.resources
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.Properties.Resources.resources
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.csproj.GenerateResource.cache
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.exe
+C:\Users\Nathan Melwani\source\repos\PTHelper\PTHelper\obj\Debug\PTHelper.pdb
