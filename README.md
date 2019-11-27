@@ -1,6 +1,8 @@
 # ACLHelper 
 
-**I know the project is called PTHelper but I'm too lazy to recommit with the correct file names.*
+*I know the project is called PTHelper but I'm too lazy to recommit with the correct file names.*
+
+**To download the file, please click [HERE](https://github.com/NateM135/ACLHelper/raw/master/ACLHelper.exe).**
 
 This program is a simple Cisco ACL Command Helper. 
 
@@ -22,7 +24,7 @@ Fill out the paramters of the command. Here is an example:
 
 ![StandardExample](Pictures/standard_example.PNG)
 
-Once you add your command, it will then show up in the command list. You can do the same for Extended ACLs using the Extended tab. Here is a picture of what it should look like:
+Once you add your command, it will then show up in the command list. Additionally, the command will be copied to your clipboard. You can do the same for Extended ACLs using the Extended tab. Here is a picture of what it should look like:
 
 ![ExtendedMenu](Pictures/extended.PNG)
 
